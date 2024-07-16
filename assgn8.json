@@ -1,7 +1,7 @@
 [
     { "color": "red", "text": "Item 1", "shape": "circle" },
     { "color": "blue", "text": "Item 2", "shape": "square" },
-    { "color": "green", "text": "Item 3", "shape": "parallelogram" },
+    { "color": "green", "text": "Item 3", "shape": "rectangle" },
     { "color": "orange", "text": "Item 4", "shape": "oval" },
-    { "color": "purple", "text": "Item 5", "shape": "rectangle" }
+    { "color": "purple", "text": "Item 5", "shape": "parallelogram" }
 ]
