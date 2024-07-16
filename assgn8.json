@@ -1,0 +1,7 @@
+[
+    { "color": "red", "text": "Item 1", "shape": "circle" },
+    { "color": "blue", "text": "Item 2", "shape": "square" },
+    { "color": "green", "text": "Item 3", "shape": "triangle" },
+    { "color": "orange", "text": "Item 4", "shape": "circle" },
+    { "color": "purple", "text": "Item 5", "shape": "square" }
+]
